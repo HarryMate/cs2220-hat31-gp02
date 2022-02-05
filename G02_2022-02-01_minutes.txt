@@ -1,0 +1,73 @@
+CS22220 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 1st February 2022
+
+Circulation list: All project members, plus project manager
+Author: Chris Loftus
+Date of minutes: 1st February 2022
+Version: 1.1
+
+Matters arising:
+===========
+NONE - first meeting of group
+
+New business:
+===========
+1. Membership of group
+
+Clark, Tom toc27
+Hoad, Oliver olh20
+Price, Josh jop65
+Qin, Young haq2
+Thomas, Harry hat31
+Tiffert, Rafal rat24
+
+We discussed what members would bring to the project:
+Tom: Frontend. Also a possible documentation person.
+Oliver: Frontend mainly, but could do backend work.
+Josh: Organising
+Young: All areas
+Harry: All areas
+Rafal: Front end work
+
+Manager: Chris Loftus, email: cwl
+
+2. Setting up the project arrangements
+
+2.1 All group members need to read the Project requirements 
+and Group Intro documents by next week and know about what 
+the project will do. ACTION: Everyone
+
+2.2 All group members to check how to add blog entries on a weekly
+basis to the group GitLab repository. See SE.QA.08 for details. 
+Add your first blog entry to the repository before
+the next tutorial. ACTION: Everyone
+
+4. Initial Tasks
+
+4.1 Oliver and Tom will read SE.QA.04 and start work on material for the user interface document. 
+They will also start putting together some possible screens in Powerpoint. ACTION: olh20, toc27
+
+4.2 Rafal will read SE.QA.06 and start drafting a list of repeatable tests.  
+They will sketch some tests for functional requirements 
+(rat24 for FR1, FR2, FR3) from 
+the Requirements specification.  ACTION:  rat24
+
+4.3 Josh and Harry will start looking at the technical issues of the project. 
+Josh will use HTML/CSS to make some example screens for the application. 
+Harry will investigate the options for saving to persistent storage 
+and tell us next week what the choices are.  Action: jop65, hat31
+
+4.4 Young will look at documents SE.QA01, SE.QA.02, SE.QA.03 before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: haq2
+
+4.5 The group will meet on 5th of February at 11am to make sure the group GitLab repository
+is set up correctly and everyone can use it. Action: Everyone
+
+AOB
+===
+1. Think about who should be quality assurance manager for next meeting. ACTION: Everyone
+
+Minutes by cwl, 1st Februray 2022
