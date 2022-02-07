@@ -1,0 +1,9 @@
+Author: rat
+Week: 1 (20/01/22)
+
+Action 1: read SE.QA.06 and start drafting a list of repeatable tests. sketch some tests for functional requirements (FR1, FR2, FR3) from the Requirements specification.
+
+I have read the SE.QA.06 documentation, created a short list of tests for FR1, FR2, FR3 as well as the testing table for those. I was not sure if I am doing it right that's
+why I haven't done more.
+
+Hours: 3
