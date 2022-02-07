@@ -1,0 +1,27 @@
+Author: Oliver
+Week: 1 (31/01/22)
+
+Assigned actions
+==============
+
+Action 1: read SE.QA.04 and start work on material for the user interface document. 
+They will also start putting together some possible screens in Powerpoint.
+
+I have started brainstorming how to create the UI. I have decided to use Adobe XD to design and google slides to prototype it.
+Haven't done as much as i'd like in terms of designing but I have a better idea of how we'll move forward with it. Will also consider any better options for designing and prototyping for Tom.
+I will also try and get the designs done quicker to give Josh more time to make the design in HTML and CSS.
+The design is also feeling unfinished so. More colour and graphics needed as it feels like a wireframe at the minute. 
+Haven't finished designing all the pages.
+
+Hours: 2
+
+Other project work
+================
+Made a Group chat on WhatsApp that some need to join.
+Met at the library to touch base, and some people still need to login into gitlab with their account so they can be added to the repo.
+Once we are all able to communicate through the group chat I think we will be more organised. 
+Reading over the group project documents.
+
+Hours: 1
+
+Total hours: 3
