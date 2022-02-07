@@ -1,0 +1,10 @@
+Author: Tom Clark
+Week: 1 (31/01/22)
+
+Completed Actions:
+-Finished the workshop and got registered onto the group GitLab. 
+-Read through SE.QA.04 and assisted Ollie with the design and documentation of the user interface. 
+-Watched the lifecycle lectures
+-Joined a group WhatsApp chat to plan future meetings.
+
+Hours: 2
