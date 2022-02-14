@@ -1,0 +1,96 @@
+CS22220 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 8th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Chris Loftus
+Date of minutes: 8th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+1. All group members need to read the Project requirements 
+and Group Intro documents by next week and know about what 
+the project will do. ACTION: Everyone
+
+Done
+
+2. All group members to check how to add blog entries on a weekly
+basis to the group GitLab repository. See SE.QA.08 for details. 
+Add your first blog entry to the repository before
+the next tutorial. ACTION: Everyone
+
+Check of each blog... 
+Done except need blogs from Young and Josh. Correct the format for the filename.   
+https://gitlab.dcs.aber.ac.uk/hat31/gp02
+
+3. Oliver and Tom will read SE.QA.04 and start work on material for the user interface document. 
+They will also start putting together some possible screens in Powerpoint. ACTION: olh20, toc27
+
+Presentation Done. Make sure gitlab dev/20220208 folder used for all meeting docs/code.
+
+
+4. Rafal will read SE.QA.06 and start drafting a list of repeatable tests.  
+They will sketch some tests for functional requirements 
+(rat24 for FR1, FR2, FR3) from 
+the Requirements specification.  ACTION:  rat24
+
+Done
+
+5. Josh and Harry will start looking at the technical issues of the project. 
+Josh will use HTML/CSS to make some example screens for the application. 
+Harry will investigate the options for saving to persistent storage 
+and tell us next week what the choices are.  Action: jop65, hat31
+
+Josh: HTML  Done
+Harry: Persistent review Done
+
+6. Young will look at documents SE.QA01, SE.QA.02, SE.QA.03 before 
+next week and come along ready to summarise them in 5 minutes 
+for the group. ACTION: haq2
+
+Done: will email summaries to the group.
+
+7. The group will meet on [date and time] to make sure the group GitLab repository
+is set up correctly and everyone can use it. Will arrange via Discord. Action: Everyone
+
+Whatsapp group chat to be used for general communications. 
+3 met up in library. Will meet up in person from now on.
+
+8. Decide on who will be QA manager, deputy QA manager, 
+start thinking about who will be PL. ACTION: Everyone
+
+Rafal is now QA Manager. Oliver is deputy QA Manager.
+Rafal will run the meeting next week and present the minutes.
+
+New business:
+===========
+1. Ongoing Tasks
+
+1.1 Oliver and Tom will identify typical users, use cases and 
+use case descriptions, to improve existing screens and identify new screens. 
+ACTION: olh20, toc27
+
+1.2 Rafal will continue drafting a list of repeatable tests 
+from the Requirements specification.  
+Rafal to improve existing tests. Meeting the test spec standard? 
+ACTION:  rat24
+
+1.3 Young, Josh, Harry, Oliver  will continue looking at the technical issues of the project. 
+HTML/CSS to make some example screens for the application.
+Authentication/Authorisation? React JS?
+Action: haq2, jop65, hat31, olh20
+
+4.4 Young will look at documents SE.QA07, SE.QA.08, before 
+next week and email summaries to the group. ACTION: haq2
+
+2. New for next week
+
+2.1 Decide on who will be the Team leader and Deputy Team Leader. ACTION: Everyone
+
+AOB
+===
+NONE
+
+Minutes by cwl, 8th February 2022

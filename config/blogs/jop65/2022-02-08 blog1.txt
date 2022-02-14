@@ -1,0 +1,25 @@
+Author: Josh
+Week 1 (06/02/22)
+
+Assigned Actions
+================
+
+Action 1: Looked at the technical issues of the project
+Created a 1st digital prototype showing briefly what content will be on each of the pages on the website
+
+I started by looking at the designs that Oliver had sent to me so I knew what I needed to do when it comes to creating the 1st design using HTML and CSS.
+In terms of the creating the website, I haven't finished it because for the upcoming tutorial meeting, I just wanted to explain to the rest of the group
+what content will be on each of the pages. There are more work to be done for the website such as Oliver going back to the design and adding more colour
+and graphics alongside myself implementing those changes to the website.
+
+Hours: 2
+
+Other Project Work
+==================
+Joined a WhatsApp Group Chat 
+Met at the library to discuss what has everyone done so far and what needs to be done before the next group meeting.
+Read over the group project document
+
+Hours: 1
+
+Total Hours: 3
