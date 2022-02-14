@@ -1,0 +1,16 @@
+Author: Tom Clark
+Week: 2 (14/02/22)
+
+Assigned actions
+==============
+- Oliver and Tom will identify typical users, use cases and use case descriptions, to improve existing screens and identify new screens.
+
+	- I have assisted Oliver in the updating of the latest UI prototype; including identifying function requirements and annotating as appropriate
+	
+	- Over the course of the next week we will work together to finish the prototype and have it feature complete, with all FRs pseudo-implemented an annotated
+
+Other project work
+================
+- Discussed progress in the group WhatsApp chat and appointed a project leader
+
+Hours: 1.5
