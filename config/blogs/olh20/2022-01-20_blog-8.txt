@@ -40,7 +40,7 @@ I have made good progress on the design itself and how I think it should look. T
 I have also been able to make a first version of the Use Case Document which I'm sure will need refining.
 The design and prototype took up a large majority of my time over the weekend, 
 maybe would be best if I did more spaced out work on the design over the week instead of 6 hours over the course of the weekend. 
-I am aiming to have all the design done by the end of next week.
+Forgot to add FR4 and FR5. I am aiming to have all the design done by the end of next week.
 
 Hours: 7.5
 
