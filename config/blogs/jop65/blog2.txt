@@ -1,0 +1,30 @@
+Author: Josh
+Week 2 (13/02/22)
+
+Assigned Actions
+================
+
+Action 1: Looked at the technical issues of the project
+Created a 2nd digital prototype that shows how the website will look like in terms of the layout, colour schemes and content 
+will be on each of the pages. 
+
+I started by looking at the designs that were created by both Oliver and Tom to see what additions, changes have been made from the 1st design 
+that I needed to implement to the 2nd digital prototype. In terms of creating the website, I've been able to make changes that were made in the design 
+and the website is coming together well with some minor changes to be done such as the size of the text boxes on the InfoQuiz page, 
+Create page alongside other minor works.
+
+Action 2: Looked At Authentication & Authorisation
+I started by looking at how to implement Authentication into the website and one way is, when the quiz maintainer, quiz master and quiz participant logs in. 
+This means that the server would be able to identify whom the user is when using the login form. In terms of authorisation, one way of using it on the website 
+is, when a user logs in, it should only allow the user to do what is have been set for example the quiz participant should only be able to answer questions 
+in the quiz and not being able to create, edit or delete questions or quizzes.
+
+Hours: 2
+
+Other Project Work
+==================
+Discussed who would be willing to be the team leader and the depty team leader of the group.  
+
+Hours: 1
+
+Total Hours: 3
