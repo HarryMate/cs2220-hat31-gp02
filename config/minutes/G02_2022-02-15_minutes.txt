@@ -1,0 +1,44 @@
+CS22220 Project: Group 02
+Meeting: Weekly Project Meeting
+Persons present: All project members, plus project manager 
+Place and date of meeting: LL-C57a, Tuesday 15th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Oliver Hoad
+Date of minutes: 15th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+1. Ongoing Tasks
+
+1.1 Oliver and Tom will identify typical users, use cases and 
+use case descriptions, to improve existing screens and identify new screens. 
+ACTION: olh20, toc27
+
+1.2 Rafal will continue drafting a list of repeatable tests 
+from the Requirements specification.  
+Rafal to improve existing tests. Meeting the test spec standard? 
+ACTION:  rat24
+
+1.3 Young, Josh, Harry, Oliver  will continue looking at the technical issues of the project. 
+HTML/CSS to make some example screens for the application.
+Authentication/Authorisation? React JS?
+Action: haq2, jop65, hat31, olh20
+
+4.4 Young will look at documents SE.QA07, SE.QA.08, before 
+next week and email summaries to the group. ACTION: haq2
+
+2. New for next week
+
+2.1 Decide on who will be the Team leader and Deputy Team Leader. ACTION: Everyone
+
+New business:
+===========
+
+
+AOB
+===
+NONE
+
+Minutes by olh20, 15th February 2022
