@@ -16,26 +16,41 @@ Matters arising:
 use case descriptions, to improve existing screens and identify new screens. 
 ACTION: olh20, toc27
 
+Done
+
 1.2 Rafal will continue drafting a list of repeatable tests 
 from the Requirements specification.  
 Rafal to improve existing tests. Meeting the test spec standard? 
 ACTION:  rat24
+
+Done
 
 1.3 Young, Josh, Harry, Oliver  will continue looking at the technical issues of the project. 
 HTML/CSS to make some example screens for the application.
 Authentication/Authorisation? React JS?
 Action: haq2, jop65, hat31, olh20
 
+Done
+
 4.4 Young will look at documents SE.QA07, SE.QA.08, before 
 next week and email summaries to the group. ACTION: haq2
+
+Done
 
 2. New for next week
 
 2.1 Decide on who will be the Team leader and Deputy Team Leader. ACTION: Everyone
-
+Josh Is Team leader
+Rafal is deputy Team leader
 New business:
 ===========
+1. Oliver and Tom finish prototype and design spec and use case document
 
+2. Rafal Continue with repeatable test document and make sure state is consistent from test to test.
+
+3. Young works on the CSS while Josh continues with HTML. 
+Rafal tinkers with React to potentially see if it is a good fit for the project.
+Harry looks into setting up a MySQL database (if not then Postgres?).
 
 AOB
 ===
