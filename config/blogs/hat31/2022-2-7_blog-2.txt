@@ -9,5 +9,6 @@ Action 1: Investigating technical issues.
 I have designed a basic database schema with relationships.
 I also investigated into the importing and export requirement of the project, and understand how it should be done,
 but I need some more time to figure out an effective implementation.
+Also researched into installing a database to the repository, need to know what database we will be using first.
 
-Hours: 2
+Hours: 3
