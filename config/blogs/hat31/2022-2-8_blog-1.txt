@@ -1,0 +1,20 @@
+Author: Harry Thomas [hat31]
+Week: 1 (31/01/22)
+
+Assigned actions
+==============
+
+Action 1: Investigate options for persistent storage
+
+Looked at different types of databases and decided which ones would be best. Compared MySQL and PostgreSQL to understand which would be better for this project. Began designing a rough database schema for the system. Researched into the importing and exporting requirements of the project, and discovered how it's possible, and thought about how it would work in the system.
+
+Hours: 2
+
+Other project work
+================
+Met at the library to talk about what we're going to be doing.
+Read through some of the group project documents.
+
+Hours: 1
+
+Total Hours: 3

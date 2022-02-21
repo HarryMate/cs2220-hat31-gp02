@@ -1,0 +1,18 @@
+
+Author: Oliver
+Week: 2 (08/02/22)
+
+Assigned actions
+==============
+Action 1: Oliver and Tom will identify typical users, use cases and 
+use case descriptions, to improve existing screens and identify new screens.
+
+I have made good progress on the design itself and how I think it should look. The prototype is functional.
+I have also been able to make a first version of the Use Case Document which I'm sure will need refining.
+The design and prototype took up a large majority of my time over the weekend, 
+maybe would be best if I did more spaced out work on the design over the week instead of 6 hours over the course of the weekend. 
+Forgot to add FR4 and FR5. I am aiming to have all the design done by the end of next week.
+
+Hours: 7.5
+
+Total Hours: 7.5
