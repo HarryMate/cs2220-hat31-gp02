@@ -1,0 +1,16 @@
+Software Engineering Group Projects –
+SE.QA.07Review Standards
+
+This article provides and explains the structured review mechanism and the conditions for the review of major projects to the project team, and describes to us the procedures to be followed in the formal review of major projects. 
+1. The scope of review is to find problems, not to correct them. 
+2 All relevant documents must be distributed to the review team by the quality assurance manager before the review meeting. 
+3.Every week, the project leader and QA manager need to hold meetings with the project members. 
+4. The project leader needs to record and review each meeting.
+
+
+Software Engineering Group Projects –
+SE.QA.08Operating Procedures and Configuration Management Standards
+
+This document provides a mechanism through which all products produced by a group of projects are properly controlled; 
+It can record project problems and corresponding changes, such as configuration management process, tools and technologies,
+ as well as problem report and corrective measures. And explained to us the matters needing attention in managing files, meeting minutes and blogs on GitLab.
