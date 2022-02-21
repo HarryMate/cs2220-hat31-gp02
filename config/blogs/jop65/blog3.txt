@@ -1,0 +1,33 @@
+Author Josh
+Week 3 (22/02/22)
+
+Assigned Actions
+================
+
+Action 1: Continued To Look At The Technical Issues Of The Project - HTML/CSS
+Created a 3rd digital prototype that shows what the website will look like in terms of the layout of the website, colour schemes and the content on 
+each of the pages. 
+
+I started looking at the updated version of how the website should look like which was implemented by both Oliver and Tom. 
+Any changes that was made in the design was implemented into the website such as created a new page to allow the quiz to be run. 
+In terms of the creation of the website, it's going very well with everything in the design being implemented in the website and is alomost ready 
+for Harry, myself and others to start implementing PHP code into the website and to try and get some date entered into the database and reading 
+them from the database. 
+
+Action 2: Organisation Of HTML / CSS Code
+After completing the changes that was made from this week's design that was created by both Oliver and Tom, I organised the code for both HTML & CSS because
+it looked difficult to understand what the code was doing for each page of the website. So I decided to comment on each code on each of the pages so everyone
+else in the group alongside myself and the project manager know what each of the code does in the website. Also, I've created a CSS file and included 
+all CSS code in that because it makes tidy. 
+
+Hours: 2
+
+Other Project Work
+==================
+Look Through Other Members Blogs To See What They Have Done In The Past Week
+Create An Excel Spreadsheet To Calculate The Amount Of Hours Members Of The Group Have Worked On The Project
+
+
+Hours: 1
+
+Total Hours: 3
