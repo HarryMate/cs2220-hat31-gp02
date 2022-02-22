@@ -13,7 +13,7 @@ Researched more into sorting out a database for the project, will discuss in cla
 
 Importing: https://users.aber.ac.uk/hat31/CS22220%20testing/import_test/import_test.html
 Imported File location: https://users.aber.ac.uk/hat31/CS22220%20testing/import_test/uploads/
-Import Test File: https://users.aber.ac.uk/hat31/CS22220%20testing/
+Import Test File: https://users.aber.ac.uk/hat31/CS22220%20testing/test.txt
 Exporting: https://users.aber.ac.uk/hat31/CS22220%20testing/export_test/export_test.html
 
 Hours: 5
