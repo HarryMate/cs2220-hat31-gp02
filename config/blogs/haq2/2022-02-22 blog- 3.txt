@@ -2,7 +2,7 @@ Author Young Qin
 Week 3 ((22/02/22))
 Assigned actions
 ============
-Action ：I beautified the button icon font of the project to make the project gen look more like a prototype
+Action ：I completely reviewed the project file completed by josh, and made changes to the buttons, text, and input boxes of the website on his basis to make it look more like the website appearance made by Oliver and Tom
 Hours 4
 ============
 
