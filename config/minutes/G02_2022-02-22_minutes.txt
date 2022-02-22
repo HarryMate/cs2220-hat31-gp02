@@ -1,7 +1,7 @@
 CS22220 Project: Group 02
 Meeting: Weekly Project Meeting
 Persons present: All project members, plus project manager 
-Place and date of meeting: LL-C57a, Tuesday 22th February 2022
+Place and date of meeting: LL-C57a, Tuesday 22nd February 2022
 
 Circulation list: All project members, plus project manager
 Author: Oliver Hoad
@@ -12,18 +12,33 @@ Matters arising:
 ===========
 1. Oliver and Tom finish prototype and design spec and use case document
 
+Done
+
 2. Rafal Continue with repeatable test document and make sure state is consistent from test to test.
+
+Done
 
 3. Young works on the CSS while Josh continues with HTML. 
 Rafal tinkers with React to potentially see if it is a good fit for the project.
 Harry looks into setting up a MySQL database (if not then Postgres?).
 
+Done
+
 New business:
 ===========
+1. Tom fixes Use cases
+	Oliver adds some mobile views for the prototype
 
+2. Rafal finishes non functional requirements and anything else that needs to be in the document
+
+3. Young and Josh continue developing the front end.
+
+4. Harry looks into Firebase a little bit but mainly email CS support team about the postgres db.
+
+5. Josh Make spreadsheet showing whos done what in their blogs. Assign task IDs 
 
 AOB
 ===
 NONE
 
-Minutes by olh20, 22th February 2022
+Minutes by olh20, 22nd February 2022
