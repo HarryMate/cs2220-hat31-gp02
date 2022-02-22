@@ -1,5 +1,5 @@
 Author: Harry Thomas [hat31]
-Week: 2 (07/02/22)
+Week: 3 (22/02/22)
 
 Assigned actions
 ==============
@@ -7,11 +7,13 @@ Assigned actions
 Action 1: Investigating technical issues.
 
 I believe I have completed the database schema.
-I have created a working exporting and importing functions.
+I have created working exporting and importing functions.
 Researched more into sorting out a database for the project, will discuss in class.
 
 
-Importing and Exporting: https://users.aber.ac.uk/hat31/CS22220%20testing/export_import_test/export_import_test.html
-Imported File location: https://users.aber.ac.uk/hat31/CS22220%20testing/export_import_test/uploads/
+Importing: https://users.aber.ac.uk/hat31/CS22220%20testing/import_test/import_test.html
+Imported File location: https://users.aber.ac.uk/hat31/CS22220%20testing/import_test/uploads/
+Import Test File: https://users.aber.ac.uk/hat31/CS22220%20testing/
+Exporting: https://users.aber.ac.uk/hat31/CS22220%20testing/export_test/export_test.html
 
-Hours: 4
+Hours: 5
