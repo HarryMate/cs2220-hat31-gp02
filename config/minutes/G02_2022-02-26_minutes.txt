@@ -1,0 +1,31 @@
+CS22220 Project: Group 02
+Meeting: UI Specification Document Review
+Persons present: Josh (Team Leader), Tom(Design) and Oliver(Design, QA Manager)
+Place and date of meeting: Discord, 26th February 2022
+
+Circulation list: All project members, plus project manager
+Author: Oliver Hoad
+Date of minutes: 15th February 2022
+Version: 1.0
+
+Matters arising:
+===========
+
+1. Review of UI Specification Document
+ACTION: jop65, toc27, olh20
+
+1.1 Use Case Document is very good and detailed. Should add non functional requirements just in case.
+ACTION: toc27, olh20
+
+1.2 Prototype is very detailed and includes the Use cases and mobile view. 
+ACTION: toc27, olh20
+
+New business:
+===========
+1. Add non functional requirements to the use cases.
+
+AOB
+===
+NONE
+
+Minutes by olh20, 26th February 2022

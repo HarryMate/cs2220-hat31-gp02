@@ -3,15 +3,16 @@ Week: 2 (22/02/22)
 
 Assigned actions
 ==============
-1. Oliver and Tom finish prototype and design spec and use case document
+1. Tom fixes Use cases
+	Oliver adds some mobile views for the prototype
+ACTION: toc27, olh20
 
-I have finished a first draft of the prototype, it includes the Quiz maintainer, Quiz master and Participant view. 
-It took quite a while to do because I only had the Quiz master view done last week.
-There is always room for tinkering.
-I am leaving the annotations and connection to the FR to Tom
+I added some mobile views to the prototype to demonstrate their relevance in the design. 
+Tom has fixed the use cases and added much more detail. I simply connected the FR in his use cases and descriptions.
 
-The use case document is more refined and is ready for the review. 
+Tom, Josh and I did the formal review of the UI Spec on Saturday over Discord and we found that everything was very detailed. 
+However we thought it would be best if the non functional requirements were included in the use cases as well.
 
-Hours: 7
+Hours: 3
 
-Total Hours: 7
+Total Hours: 3
