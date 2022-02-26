@@ -23,6 +23,7 @@ ACTION: toc27, olh20
 New business:
 ===========
 1. Add non functional requirements to the use cases.
+ACTION: toc27, olh20
 
 AOB
 ===
