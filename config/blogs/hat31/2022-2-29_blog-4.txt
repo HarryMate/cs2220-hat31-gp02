@@ -1,0 +1,12 @@
+Author: Harry Thomas [hat31]
+Week: 3 (22/02/22)
+
+Assigned actions
+==============
+
+Action 1: Looking into firebase and PostGres
+
+Emailed and found out it is possible to have another PostGres account, so that is a viable option.
+Looked into Firebase, couldn't get it working but I will spend more time with it tuesday morning to get it working.
+
+Hours: 4 (will be updated)
