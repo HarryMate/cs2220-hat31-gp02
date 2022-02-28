@@ -4,13 +4,14 @@ Week: 3 (21/02/22)
 Assigned actions
 ==============
 - Oliver and Tom finish prototype and design spec and use case document
+	We have prototyped the latest version of the user interface, which includes saving a quiz, previewing a quiz and taking a quiz now.
 
-	- We have prototyped the latest version of the user interface, including the quiz maintainter, quiz master and quiz participant areas.
-	
-	- Any yet unimplemented FRs will be identified and pseudo-implemented over the course of the next week.
+- Tom fixes Use cases
+	I have created a table for the use cases of the system, detailing the names of each case and a description of how the user interacts with the system.
+
 
 Other project work
 ================
-- Liaised with Oliver throughout the course of the week to discuss the latest design
+- Liaised with Oliver and Josh over discord to get feedback on the most recent version of the prototype and documents
 
-Hours: 3
+Hours: 6
