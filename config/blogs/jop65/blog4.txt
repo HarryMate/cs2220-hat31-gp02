@@ -1,0 +1,30 @@
+Author: Josh
+Week 4 (01/03/22)
+
+Assigned Actions
+================
+
+Action 1: Continued To Look At The Technical Issuess Of The Project
+Created a 4th digital prototype that shows what will be on each page on the website
+
+Looked at the updated version of the prototype that both Oliver and Tom had made and just adjusted any changes that was made to the website in terms of HTML
+and will allow Young to make any changes that have been made in terms of style in the prototype and make those changes on the website.
+Have identifed in the prototype that there are some parts that need JavaScript such as the error meesages when it comes to the input box being empty
+or incoreect email or password being entered incorrectly, but would need to investigate further whether PHP would be able to do it or not. 
+
+Action 2: Calcualted Amount Of Group Members Hours & Tasks They Have Done
+Needed to go through blogs of group members to see how many hours they have spent every week doing the tasks they have been asked to do for the following 
+week and write them down onto an Excel spreadsheet to keep tabs on the amount of hours each member of the group has done in the week and overall. Also needed
+to write the tasks each member have done so I know what they have done throughout the project and whether they need to more tasks or less tasks.
+
+Hours: 3
+
+Other Project Work
+==================
+Had a meeting with Oliver & Tom to discuss all the prototype and the use case document for a formal review
+Look Through Other Members Blogs To See What They Have Done In The Past Week
+Calculate Members Of Hours
+
+Hours: 2
+
+Total Hours: 5
