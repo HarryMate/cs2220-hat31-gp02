@@ -1,0 +1,8 @@
+Author: rat
+Week: 2 (21/02/22)
+
+Action 1: read SE.QA.06 and start drafting a list of repeatable tests. sketch some tests for functional requirements from the Requirements specification.
+
+I created a short list of tests for External Interface Requirements, Security Requirements, Performance Requirements, Design Constraints as well as the testing table for those.
+
+Hours: 7
