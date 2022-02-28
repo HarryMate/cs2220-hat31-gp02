@@ -45,12 +45,15 @@ Rafal is deputy Team leader
 New business:
 ===========
 1. Oliver and Tom finish prototype and design spec and use case document
+ACTION: olh20, toc27
 
 2. Rafal Continue with repeatable test document and make sure state is consistent from test to test.
+ACTION: rat24
 
 3. Young works on the CSS while Josh continues with HTML. 
 Rafal tinkers with React to potentially see if it is a good fit for the project.
 Harry looks into setting up a MySQL database (if not then Postgres?).
+ACTION: haq2, jop65, rat24, haq2
 
 AOB
 ===

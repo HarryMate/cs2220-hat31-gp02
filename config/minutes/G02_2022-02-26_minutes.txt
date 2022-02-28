@@ -12,18 +12,15 @@ Matters arising:
 ===========
 
 1. Review of UI Specification Document
-ACTION: jop65, toc27, olh20
 
 1.1 Use Case Document is very good and detailed. Should add non functional requirements just in case.
-ACTION: toc27, olh20
 
 1.2 Prototype is very detailed and includes the Use cases and mobile view. 
-ACTION: toc27, olh20
 
-New business:
+Changes arising from review:
 ===========
 1. Add non functional requirements to the use cases.
-ACTION: toc27, olh20
+ACTION: olh20, toc27
 
 AOB
 ===
