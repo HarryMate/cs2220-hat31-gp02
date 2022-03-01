@@ -7,6 +7,7 @@ Assigned actions
 Action 1: Looking into firebase and PostGres
 
 Emailed and found out it is possible to have another PostGres account, so that is a viable option.
-Looked into Firebase, couldn't get it working but I will spend more time with it tuesday morning to get it working.
+Firebase does not seem to work, following a tutorial during the installation they get 21 packages installed, whilst I get 9 installed, the folder created with the installation also has much less files in mine. I'm thinking it has something to do with the University network, but I'm not sure.
+I also investigated into how to insert the formatted code questions into a database and got some understanding of how it should be done.
 
-Hours: 4 (will be updated)
+Hours: 6
