@@ -5,7 +5,7 @@ Place and date of meeting: LL-C57a, Tuesday 22nd February 2022
 
 Circulation list: All project members, plus project manager
 Author: Oliver Hoad
-Date of minutes: 22th February 2022
+Date of minutes: 1st March 2022
 Version: 1.1
 
 Matters arising:
@@ -14,24 +14,48 @@ Matters arising:
 	Oliver adds some mobile views for the prototype
 ACTION: toc27, olh20
 
+Done
+
 2. Rafal finishes non functional requirements and anything else that needs to be in the document
 ACTION: rat24
+
+Done
 
 3. Young and Josh continue developing the front end.
 ACTION: haq2, jop65
 
+Done
+
 4. Harry looks into Firebase a little bit but mainly email CS support team about the postgres db.
 ACTION: hat31
+
+Done
 
 5. Josh Make spreadsheet showing whos done what in their blogs. Assign task IDs 
 ACTION: jop65
 
+Ongoing
+
 New business:
 ===========
+1. Test out React/Next.js by making some sort of prototype to see how easy it is to get started with React
+ACTION: olh20, rat24
+
+2. Josh Make spreadsheet showing whos done what in their blogs. Assign task IDs 
+ACTION: jop65
+
+3. Young and Josh continue making missing pages from prototype
+ACTION: haq2, jop65
+
+4. Tom starts looking at the design spec document and make sure he's watched lecture 5a and 5b and maybe give some feedback.
+ACTION: toc27
+
+5. Harry gets the postgres set up and starts setting up authentication. Look at React / rest API docs
+ACTION: hat31
 
 
 AOB
 ===
 NONE
 
-Minutes by olh20, 22nd February 2022
+Minutes by olh20, 1st March 2022
