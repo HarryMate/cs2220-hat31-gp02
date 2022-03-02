@@ -53,6 +53,9 @@ ACTION: toc27
 5. Harry gets the postgres set up and starts setting up authentication. Look at React / rest API docs
 ACTION: hat31
 
+6. Rafal writes up Test Spec Document ready for next weeks review.
+ACTION: rat24
+
 
 AOB
 ===
