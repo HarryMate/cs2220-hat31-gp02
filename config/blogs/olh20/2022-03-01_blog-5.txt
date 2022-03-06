@@ -1,0 +1,19 @@
+Author: Oliver
+Week: 5 (01/03/22)
+
+Assigned actions
+==============
+1. Test out React/Next.js by making some sort of prototype to see how easy it is to get started with React
+ACTION: olh20, rat24
+
+I have spent some time teaching myself React.js. I was quite surprised about how easy it was. I can immidetaly see the benefits of using it in the project. It makes things like reactively 
+changing which question type to fill in depending on the dropdown menu selection. I am also a fan of how data is passed down components and that everything is in a component style.
+Need to look into Next.js
+
+I am wondering how well React will play into using PHP. Hopefully it works well but I will need to do further research
+
+
+
+Hours: 3
+
+Total Hours: 3
