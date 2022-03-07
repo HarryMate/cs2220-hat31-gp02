@@ -1,0 +1,26 @@
+Author Josh
+Week 5 (08/03/22)
+
+Assigned Actions
+================
+
+Action 1: Continued To Look At The Technical Issues Of The Project
+Created a 5th digital prototype of the quiz website with some additions such as new pages on the website that Oliver acknowledge that I haven't created.
+
+Looked at the updated version of the prototype that both Oliver and Tom had worked on to see which pages on the website that I have missed alongside getting
+Young to do some CSS for the new pages that I have created. Also, I've identified more parts on the website that requires JavaScript code such as an error 
+message if the Quiz Maintainer does not fill in the question, mark and either 2 answers for the multiple choice question or True or False alongside have 
+a message displaying that the user has succssfully logged in.
+
+Hours: 2 
+
+Other Project Work
+==================
+Calculated Hours Of Group Members   
+Looked Through Group Members Blogs To See What They Have Done In The Week
+Looked At Suitable Software To Create Gantt Chart - Example Microsoft Project
+
+Hours: 1
+
+Total Hours: 3
+ 
