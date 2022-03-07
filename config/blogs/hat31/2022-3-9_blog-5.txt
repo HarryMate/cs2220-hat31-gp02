@@ -1,0 +1,16 @@
+Author: Harry Thomas [hat31]
+Week: 5 (8/03/22)
+
+Assigned actions
+==============
+
+Action 1: Setting Up PostGres
+Done
+
+Action 2: Setting up authentication
+Authentication has been set up, and I did authorisation as well.
+
+Action 3: RestAPI docs
+Looked at the docs to have an understanding of its purpose and a basic idea of how it works.
+
+Hours: 4
