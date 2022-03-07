@@ -5,7 +5,7 @@ Assigned actions
 ==============
 -Tom starts looking at the design spec document and make sure he's watched lecture 5a and 5b and maybe give some feedback.
 
-	- I read through "SE.QA.05 - Design Specification Standards" as per the minutes of the meeting and began work on a write up for brevity.
+	- I read through "SE.QA.05 - Design Specification Standards" as per the minutes of the meeting and began work on the design specification.
 	
 	- Watched lectures 5a and 5b
 
