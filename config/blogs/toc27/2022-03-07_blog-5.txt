@@ -1,0 +1,17 @@
+Author: Tom Clark
+Week: 5 (07/03/22)
+
+Assigned actions
+==============
+-Tom starts looking at the design spec document and make sure he's watched lecture 5a and 5b and maybe give some feedback.
+
+	- I read through "SE.QA.05 - Design Specification Standards" as per the minutes of the meeting and began work on a write up for brevity.
+	
+	- Watched lectures 5a and 5b
+
+Other project work
+================
+- Discussed what I'd missed in last week's meeting with Oliver.
+- Met with the group before this week's meeting to discuss the back-end and use of html
+
+Hours: 3
