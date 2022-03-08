@@ -1,0 +1,6 @@
+Author: rat
+Week: 2 (07/03/22)
+
+Action 1: I finished doing test file and Ive done net.js prototype.
+
+Hours: 7
