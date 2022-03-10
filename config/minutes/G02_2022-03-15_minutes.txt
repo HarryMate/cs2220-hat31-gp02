@@ -1,71 +1,55 @@
 CS22220 Project: Group 02
 Meeting: Weekly Project Meeting
 Persons present: All project members, plus project manager 
-Place and date of meeting: LL-C57a, Tuesday 8th March 2022
+Place and date of meeting: LL-C57a, Tuesday 15th March 2022
 
 Circulation list: All project members, plus project manager
 Author: Oliver Hoad
-Date of minutes: 8th March 2022
+Date of minutes: 15th March 2022
 Version: 1.1
 
 Matters arising:
-===========
-1. Test out React/Next.js by making some sort of prototype to see how easy it is to get started with React
-ACTION: olh20, rat24
-
-Done
-
-2. Josh Make spreadsheet showing whos done what in their blogs. Assign task IDs 
-ACTION: jop65
-
-Done
-
-3. Young and Josh continue making missing pages from prototype
-ACTION: haq2, jop65
-
-Done
-
-4. Tom starts looking at the design spec document and make sure he's watched lecture 5a and 5b and maybe give some feedback.
-ACTION: toc27
-
-Done
-
-5. Harry gets the postgres set up and starts setting up authentication. Look at React / rest API docs
-ACTION: hat31
-
-Done
-
-6. Rafal writes up Test Spec Document ready for next weeks review.
-ACTION: rat24
-
-Ongoing
-
-New business:
 ===========
 1. Young, Josh, Tom, Harry watch these tutorial videos to get started on learning react/next.js.
 https://www.youtube.com/watch?v=mTz0GXj8NN0
 https://www.youtube.com/watch?v=w7ejDZ8SWv8
 ACTION: haq2, jop65, toc27, hat31
 
+
+
 2.1 Tom, put references in UI spec and finish adding Chris's feedback. 
 ACTION: toc27
 2.2 Josh make gitlab issues and assign to design team (Tom and Oliver)
 ACTION: jop65
 
+
+
 3. Tom and Oliver, Continue working on the design spec.
 ACTION: toc27, olh20
+
+
 
 4. Harry, Oliver check to see if Harry's backend code can work with Reatc/Next.js
 ACTION: hat31, olh20
 
+
+
 5. Rafal, Josh, Oliver need to do review meeting and release test spec document
 ACTION: rat24, jop65, olh20
 
+
+
 6. If Josh wants to, Josh can create a gantt chart and share it to the group.
 ACTION: jop65
+
+
+
+New business:
+===========
+
 
 AOB
 ===
 NONE
 
-Minutes by olh20, 8th March 2022
+Minutes by olh20, 15th March 2022
