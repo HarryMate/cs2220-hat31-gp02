@@ -1,8 +1,0 @@
-Author Young Qin
-Week 3 ((22/02/22))
-Assigned actions
-============
-Action ：I completely reviewed the project file completed by josh, and made changes to the buttons, text, and input boxes of the website on his basis to make it look more like the website appearance made by Oliver and Tom
-Hours 4
-============
-
