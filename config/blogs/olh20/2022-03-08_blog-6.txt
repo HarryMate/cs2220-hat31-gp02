@@ -1,0 +1,26 @@
+Author: Oliver
+Week: 6 (08/03/22)
+
+Assigned actions
+==============
+Rafal, Josh, Oliver need to do review meeting and release test spec document
+ACTION: rat24, jop65, olh20
+
+The review meeting went well and we found any issues with the test spec which were thankfully only document formatting issues.
+I released the document in time.
+
+Hours: 1
+
+Harry, Oliver check to see if Harry's backend code can work with Reatc/Next.js
+ACTION: hat31, olh20
+
+I did some research and found something called Prisma, which is meant to allow connection between relational databases and next.js.
+However it didn't go well as I can't seem to connect. I fear it may be an issue with how to school's databases is set up.
+
+Hours: 2
+
+Updated the prototype and changed the design language a bit so it isn't so jarring. 
+
+Hours: 2
+
+Total Hours: 5
