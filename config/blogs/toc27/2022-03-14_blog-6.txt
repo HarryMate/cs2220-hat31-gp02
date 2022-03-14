@@ -1,0 +1,22 @@
+Author: Tom Clark
+Week: 6 (14/03/22)
+
+Assigned actions
+==============
+- 1. Young, Josh, Tom, Harry watch these tutorial videos to get started on learning react/next.js.
+
+- 2. Tom, put references in UI spec and finish adding Chris's feedback. 
+
+- 3. Tom and Oliver, Continue working on the design spec.
+
+	- Actioned some more of Chris' feedback (added an error case table and tidied / referenced the document ready for release 
+	
+	- Followed along with the tutorial videos to start learning react
+	
+	- Continued work on SE_QA_05
+
+Other project work
+================
+
+
+Hours: 5
