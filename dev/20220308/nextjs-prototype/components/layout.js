@@ -24,6 +24,9 @@ export default function Layout({ children }) {
                         <Link href="/create-question" passHref>
                             <Nav.Link>Create question</Nav.Link>
                         </Link>
+                        <Link href="/create-quiz" passHref>
+                            <Nav.Link>Create quiz</Nav.Link>
+                        </Link>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>

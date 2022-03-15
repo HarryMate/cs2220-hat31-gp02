@@ -1,0 +1,6 @@
+Author: rat
+Week: 6 (15/03/22)
+
+Action 1: Formal review with tests and continue working on next.js prototype
+
+Hours: 4
