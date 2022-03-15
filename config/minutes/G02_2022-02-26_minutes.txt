@@ -3,9 +3,9 @@ Meeting: UI Specification Document Review
 Persons present: Josh (Team Leader), Tom(Design) and Oliver(Design, QA Manager)
 Place and date of meeting: Discord, 26th February 2022
 
-Circulation list: All project members, plus project manager
+Circulation list: Josh, Tom, Oliver
 Author: Oliver Hoad
-Date of minutes: 15th February 2022
+Date of minutes: 26th February 2022
 Version: 1.0
 
 Matters arising:
