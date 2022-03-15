@@ -1,0 +1,26 @@
+Author Josh
+Week 6 (16/03/22)
+
+Assigned Actions
+================
+
+Action 1: Review Meeting For The Test Spec Document
+Rafal, Oliver and myself had a meeting to review the test spec document which we found some formatting issues which was resolved in the meeting.
+
+Action 2: Make GitLab issues
+Created some GitLab issues from the UI Spec, UI Presentation and Quality Assurance and assign them to Oliver and Tom. 
+Oliver - UI Presentation & Quality Assurance
+Tom - UI Document 
+
+Action 3: Watch Tutorial Videos To Learn About React/Next.js.
+
+Hours: 5
+
+Other Project Work
+==================
+Calcualted Hours Of Group Members & Assign The Task That They Have Done
+Looked Through Group Members Blogs To See What They Have Done In The Week
+
+Hours: 1
+
+Total Hours: 6
