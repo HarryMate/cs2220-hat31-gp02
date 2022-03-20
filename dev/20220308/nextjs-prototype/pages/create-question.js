@@ -1,10 +1,18 @@
 import { useState } from "react";
+import dynamic from "next/dynamic";
+import "@uiw/react-textarea-code-editor/dist.css";
 import { Badge, Button, Col, Container, Form, FormControl, Row } from "react-bootstrap"
 import { BsUiChecksGrid, BsCheckCircle, IconName } from "react-icons/bs";
 import { useFormik } from 'formik';
 
+const CodeEditor = dynamic(
+    () => import("@uiw/react-textarea-code-editor").then((mod) => mod.default),
+    { ssr: false }
+);
+
 export default function CreateQuestion() {
     const [questionType, setQuestionType] = useState(1);
+    const [answerType, setAnswerType] = useState(1);
 
     return (
         <>
@@ -23,10 +31,6 @@ export default function CreateQuestion() {
                         </Form.Group>
                     </Col>
                 </Row>
-
-
-
-
 
                 <Row >
                     <Col className="text-center mb-3">
@@ -47,42 +51,103 @@ export default function CreateQuestion() {
                 </Row>
                 {questionType == 1 &&
                     <>
-                        <Row className="justify-content-center">
-                            <Col sm={6}>
-                                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                                    <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter email" />} />
-                                </Form.Group>
+                        <Row className=" mb-3 justify-content-center">
+                            <Col sm={3} className="">
+                                <Form.Check
+                                    type={'radio'}
+                                    value="1"
+                                    name={'answerType'}
+                                    label={'Normal'}
+                                    onChange={() => setAnswerType(1)}
+                                />
+                            </Col>
+                            <Col sm={3} className="">
+                                <Form.Check
+                                    type={'radio'}
+                                    value="1"
+                                    name={'answerType'}
+                                    label={'Code'}
+                                    onChange={() => setAnswerType(2)}
+                                />
                             </Col>
                         </Row>
-                        <Row className="justify-content-center">
-                            <Col sm={6}>
-                                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                                    <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter email" />} />
-                                </Form.Group>
-                            </Col>
-                        </Row>
-                        <Row className="justify-content-center">
-                            <Col sm={6}>
-                                <Form.Group className="mb-3" controlId="formBasicCheckbox">
-                                    <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter email" />} />
-                                </Form.Group>
-                            </Col>
-                        </Row>
-                        <Row className="mt-3 justify-content-center">
-                            <Col sm={6} className="text-center">
-                                <Button >Add another answer</Button>
-                            </Col>
-                        </Row>
+                        {answerType == 1 &&
+                            <>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Group className="mb-3" controlId="formBasicCheckbox">
+                                            <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter answer" />} />
+                                        </Form.Group>
+                                    </Col>
+                                </Row>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Group className="mb-3" controlId="formBasicCheckbox">
+                                            <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter answer" />} />
+                                        </Form.Group>
+                                    </Col>
+                                </Row>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Group className="mb-3" controlId="formBasicCheckbox">
+                                            <Form.Check type="radio" name="correctAnswerIndex" label={<Form.Control type="text" placeholder="Enter answer" />} />
+                                        </Form.Group>
+                                    </Col>
+                                </Row>
+                                <Row className="mt-3 justify-content-center">
+                                    <Col sm={6} className="text-center">
+                                        <Button >Add another answer</Button>
+                                    </Col>
+                                </Row>
+                            </>
+                        }
+                        {answerType == 2 &&
 
+                            <>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Check type="radio" name="correctAnswerIndex" />
+                                        <CodeEditor
+                                            language="js"
+                                            placeholder="Please enter code"
+
+                                        />
+                                    </Col>
+                                </Row>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Check type="radio" name="correctAnswerIndex" />
+                                        <CodeEditor
+                                            language="js"
+                                            placeholder="Please enter code"
+
+                                        />
+                                    </Col>
+                                </Row>
+                                <Row className="justify-content-center">
+                                    <Col sm={6}>
+                                        <Form.Check type="radio" name="correctAnswerIndex" />
+                                        <CodeEditor
+                                            language="js"
+                                            placeholder="Please enter code"
+
+                                        />
+                                    </Col>
+                                </Row>
+                                <Row className="mt-3 justify-content-center">
+                                    <Col sm={6} className="text-center">
+                                        <Button >Add another answer</Button>
+                                    </Col>
+                                </Row>
+                            </>
+
+                        }
                     </>
                 }
                 {questionType == 2 &&
                     <>
-                        <Row className="justify-content-center">
-                            <h3 className="text-center">Answers:</h3>
-                        </Row>
-                        <Row className="mt-3 justify-content-center">
-                            <Col sm={3} className="text-center">
+                        <Row className=" mb-3 justify-content-center">
+                            <Col sm={3} className="">
                                 <Form.Check
                                     type={'radio'}
                                     value="1"
@@ -90,7 +155,7 @@ export default function CreateQuestion() {
                                     label={'TRUE'}
                                 />
                             </Col>
-                            <Col sm={3} className="text-center">
+                            <Col sm={3} className="">
                                 <Form.Check
                                     type={'radio'}
                                     value="1"

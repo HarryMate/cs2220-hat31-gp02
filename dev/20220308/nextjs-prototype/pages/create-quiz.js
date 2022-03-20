@@ -23,8 +23,8 @@ export default function CreateQuiz() {
                         </FloatingLabel>
                     </Col>
                 </Row>
-                <Row className="justify-content-center mb-3">
-                    <Col sm={3}>
+                <Row className="justify-content-center2">
+                    <Col className="text-center">
                     <Button className="mb-3" size="lg">Create and continue</Button>
                     </Col>
                 </Row>

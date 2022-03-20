@@ -18,14 +18,23 @@ export default function Layout({ children }) {
                     </Link>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse className="justify-content-end" id="basic-navbar-nav">
-                        <Nav.Link>Home</Nav.Link>
-                        <Nav.Link>Login</Nav.Link>
-                        <Nav.Link>Register</Nav.Link>
+                    <Link href="/index" passHref>
+                            <Nav.Link>Home</Nav.Link>
+                        </Link>
+                        <Link href="/account/login" passHref>
+                            <Nav.Link>Login</Nav.Link>
+                        </Link>
+                        <Link href="/account/register" passHref>
+                            <Nav.Link>Register</Nav.Link>
+                        </Link>
                         <Link href="/create-question" passHref>
                             <Nav.Link>Create question</Nav.Link>
                         </Link>
                         <Link href="/create-quiz" passHref>
                             <Nav.Link>Create quiz</Nav.Link>
+                        </Link>
+                        <Link href="/quiz-bank" passHref>
+                            <Nav.Link>Quizzes</Nav.Link>
                         </Link>
                     </Navbar.Collapse>
                 </Container>
