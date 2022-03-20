@@ -1,0 +1,33 @@
+Author: Oliver
+Week: 7 (15/03/22)
+
+Assigned actions
+==============
+Harry does section 4 of design spec, Tom does section 3 of design spec, Oliver does section 2 of design spec
+ACTION: hat31, toc27, olh20
+I have done a first draft of my assigned section for the design spec (section 2), which includes some diagrams and descriptions of
+the overall hierarchy and architecture of the project.
+
+Hours: 1
+
+Oliver possibly meet Alun Jones (auj) in Physical science building, room 2.34
+ACTION: olh20
+I didn't end up organising a meeting with Alun since I managed to workaround the issue I was having and I now have a better understanding
+of Restful APIs because of it. I think Rest APIs are going to be important in the backend development of the project and doesn't seem to
+be too difficult. It involves the Express library.
+
+Hours: 2
+
+Oliver look into keeping backend code out of the front end for security.
+ACTION: olh20
+I have researched something called env files which appear to be most peoples solutions to the problem of not having db details in plain sight.
+
+Hours: 1
+
+Total Hours: 4
+
+AOB
+===
+I have also been looking into firebase a bit more. I do think firebase would be a good idea too but we can't use both firebase and postgres.
+Firebase has some really good authentication that even handles sessions without needing to write any extra code. I'm not sure which way we should
+go with the backend any more.
