@@ -1,0 +1,21 @@
+Author: Harry Thomas [hat31]
+Week: 7 (22/03/22)
+
+Assigned actions
+==============
+
+Action 1: Design Spec
+
+I have done 4.1, but 4.2 in SE.QA05 is not worded correctly, so it's either a mistake or there is something missing on it.
+I need to ask Chris if how I did 4.1 was correct, and what I should do with 4.2, as there are things I don't understand about how to do it.
+
+Hours: 1
+
+Action 2: Look into Laravel
+
+I think it's a good idea, it has built in authentication and authorisation, as well as built in next.js functionality so it will work as a backend for the project.
+I need to look more into using it as a backend and can do that with a new prototype when I get it to work.
+
+Hours: 5
+
+Total hours: 6
