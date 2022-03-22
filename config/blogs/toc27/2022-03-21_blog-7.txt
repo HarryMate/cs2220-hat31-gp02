@@ -1,0 +1,20 @@
+Author: Tom Clark
+Week: 7 (21/03/22)
+
+Assigned actions
+==============
+- 1. Young, Josh, Tom, Harry watch these tutorial videos to get started on learning react/next.js.
+
+- 2. Tom does section 3 of design spec.
+
+- 3. Tom and Oliver, Continue working on the design spec.
+
+	- Continued work on SE_QA_05, added a description of each page, images of each form and added some of oliver and harry's work to the doc
+	
+	- Watched the next.js crash course video
+
+Other project work
+================
+
+
+Hours: 5
