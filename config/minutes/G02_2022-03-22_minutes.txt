@@ -13,29 +13,59 @@ Matters arising:
 1. Harry does section 4 of design spec, Tom does section 3 of design spec, Oliver does section 2 of design spec
 ACTION: hat31, toc27, olh20
 
+Ongoing
+
 2. Continue watching the react/nextjs videos or any other videos you find that might be helpful
 ACTION: haq2, jop65, hat31, toc27
+
+Done
 
 3. Josh continue making a gantt chart
 ACTION: jop65
 
+Ongoing
+
 4. Young and Rafal make the nextjs prototype and maybe bring across some styles from the early html examples.
 ACTION: rat24, haq2
+
+Ongoing
 
 5. Harry look into ajax and laravel
 ACTION: hat31
 
+Ongoing
+
 6. Oliver possibly meet Alun Jones (auj) in Physical science building, room 2.34
 ACTION: olh20
+
+Not needed
 
 7. Oliver look into keeping backend code out of the front end for security.
 ACTION: olh20
 
+Done
+
 New business:
 ===========
+1. Oliver discuss async stuff add laravel to the diagram in overview section, Harry also discuss async, Tom keep working on his section.
+Have ready for review either this week or beginning of next week.
+ACTION: olh20, hat31, toc27
 
+2. Josh finish off gantt chart
+ACTION: jop65
 
+3. Rafal and Young continue the front end 
+ACTION: rat24, haq2
 
+4.1 Harry continue Laravel 
+4.2 Oliver learn Laravel with https://www.youtube.com/watch?v=MFh0Fd7BsjE
+ACTION: hat31, olh20
+
+5. If Rafal has time to act on Chris's feedback on test doc
+ACTION: rat24
+
+6. Josh makes new gitlab issues for Rafal
+ACTION: jop65
 
 AOB
 ===
