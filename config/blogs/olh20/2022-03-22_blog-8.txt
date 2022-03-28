@@ -1,0 +1,19 @@
+Author: Oliver
+Week: 8 (22/03/22)
+
+Assigned actions
+==============
+I have worked on my section of the Design Spec document.
+Still need to do the review but it will be ready to release before the end of week 9
+
+Hours: 1
+
+I have been slowly working through learning Laravel. I now want to start learning how it integrates with NextJS.
+
+Hours: 3
+
+Total Hours: 4
+
+AOB
+===
+
