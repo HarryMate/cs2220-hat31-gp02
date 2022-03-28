@@ -1,0 +1,20 @@
+Author: Harry Thomas [hat31]
+Week: 8 (29/03/22)
+
+Assigned actions
+==============
+
+Action 1: Design Spec
+
+Added async stuff and updated database schema
+
+Hours: 1
+
+Action 2: Laravel Proof of Concept
+
+I think it's a good idea, it has built in authentication and authorisation, as well as built in next.js functionality so it will work as a backend for the project.
+I need to look more into using it as a backend and can do that with a new prototype when I get it to work.
+
+Hours: 7
+
+Total hours: 8
